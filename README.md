@@ -1,5 +1,5 @@
 # gas_code
 google　Apps Scriptでgoogle Formから受け付けた回答をwebホックのurlを参照にslackに送るシステムを参照しました。
-google Formとgoogle spread sheetをリンクした場合に参加者や物品の解答欄があれば自動で集計し同時にslackにシステムです、参考までに
+google Formとgoogle spread sheetをリンクした場合に参加者や物品の解答欄があれば自動で集計し同時にslackに通知するシステムです、参考までに
 
 2024/02/23
